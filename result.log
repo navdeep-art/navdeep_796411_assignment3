@@ -1,0 +1,5 @@
+WARNING:if value is not providing correct answer something is fishy here.
+INFO:Value is multiplied triple time in cube function 
+INFO: Two results are compared after the multiplication that which one is greater
+ERROR:Value of number is double in this function. 
+NoneType: None
